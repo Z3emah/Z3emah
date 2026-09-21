@@ -1,7 +1,7 @@
 # Hi, I'm Nureni Omowumi 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Scientist+in+the+making;Turning+messy+data+into+clear+insights;SQL%2C+Python%2C+and+Data+Storytelling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Scientist+in+the+making;Turning+messy+data+into+clear+insights;Building+machine+learning+solutions;SQL%2C+Python%2C+and+Data+Storytelling" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,17 +11,27 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-I’m a Computer Science student focused on Data Science, with a passion for the “dirty” side of data: cleaning, structuring, and preparing datasets for meaningful insights. I enjoy turning raw information into stories that drive better decisions.
+I’m a Computer Science student building my path in Data Science, with a growing focus on both machine learning and analytical problem-solving. I enjoy working through the full data journey—from cleaning and exploring raw datasets to finding meaningful patterns, building predictive models, and communicating insights that support better decisions.
 
-### Current Focus
-- Improving my SQL optimization and Python data-cleaning workflows
-- Building practical data projects with real-world use cases
-- Strengthening my ability to communicate insights clearly and effectively
+## My Data Science Journey
+
+I’m currently developing practical experience across the data science workflow:
+
+- Preparing, cleaning, and validating data for reliable analysis
+- Exploring datasets to uncover patterns, relationships, and useful insights
+- Building and evaluating machine learning models for real-world problems
+- Improving my SQL optimization and Python data-science workflows
+- Learning how to translate model results into clear, actionable stories
+
+My goal is to grow into a well-rounded data scientist who can combine strong data foundations, thoughtful analysis, and effective machine learning solutions.
 
 ### Core Interests
-- Data Integrity
-- Data Storytelling
+- Machine Learning
+- Exploratory Data Analysis
+- Data Integrity and Preparation
+- Predictive Modeling
 - Business Intelligence
+- Data Storytelling
 - Database Optimization
 - Trend Discovery in Open Data
 
@@ -32,7 +42,7 @@ I’m a Computer Science student focused on Data Science, with a passion for the
 ## Featured Projects
 
 ### 🧠 Spam Detection Model
-- SMS spam detection project built with Python
+- SMS spam detection project built with Python and machine learning
 - Live Demo: https://spamdetection-ml.streamlit.app/
 - Repo: https://github.com/Z3emah/spam_detection-ML
 
@@ -61,9 +71,12 @@ I’m a Computer Science student focused on Data Science, with a passion for the
 - Streamlit
 
 ### Specialties
-- Data Cleaning
-- Technical Reporting
+- Data Cleaning and Preparation
 - Exploratory Data Analysis
+- Machine Learning
+- Predictive Modeling
+- Technical Reporting
+- Data Visualization
 - Model Prototyping
 
 ---
