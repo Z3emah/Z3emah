@@ -21,6 +21,7 @@ I am a Computer Science student currently focused on Data Science. I am passiona
 - [Spam Detection Model](https://github.com/Z3emah/spam_detection-ML) - *SMS Spam Detector.*
   [Live Demo](https://spamdetection-ml.streamlit.app/)
 - [Credit Approval Model](https://github.com/Z3emah/creditApproval-ML) -
+  [Live Demo](https://creditapproval-ml-e7kai3zw5ewzfnpsapprvf2.streamlit.app/)
 
 ---
 ### 📫 Contact Details:
